@@ -1,0 +1,5 @@
+retrieve termouput from hurtbrain
+retrieve mathamatics from hurtbrain
+retrieve varia from hurtbrain
+varia{"const": {"name": "result", "value": force"[1+1]"}}
+termouput{"typewriter": force"[varia]}
